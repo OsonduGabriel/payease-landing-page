@@ -10,8 +10,7 @@ Built as part of a frontend development project to practice React, responsive de
 
 ## Screenshots
 
-> Add a screenshot of your landing page here
-> `![PayEase Landing Page](./screenshot.png)`
+![PayEase Landing Page](./screenshot.png)
 
 ---
 
