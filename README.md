@@ -88,9 +88,9 @@ This project followed a deliberate build process:
 ## Author
 
 **OSONDU GABRIEL**
-- GitHub: [@yourusername](https://github.com/OsonduGabriel)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/osondu-gabriel)
-- X: [Your X](https://x.com/osondu_gabriel)
+- GitHub: [Osondu Gabriel](https://github.com/OsonduGabriel)
+- LinkedIn: [Osondu Gabriel](https://linkedin.com/in/osondu-gabriel)
+- X: [Osondu Gabriel](https://x.com/osondu_gabriel)
 
 ---
 
