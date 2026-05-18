@@ -53,12 +53,8 @@ header{
 }
 
 .logo{
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: var(--green-dark);
+    height: 60px;
+    width: auto;
     cursor: pointer;
 }
 
@@ -632,10 +628,8 @@ footer a:hover{
 }
 
 .logo{
-    color: var(--green-dark);
-    display: flex;
-    font-size: 1.7rem;
-    position: relative;
+    height: 70px;
+    width: auto;
 }
 
 

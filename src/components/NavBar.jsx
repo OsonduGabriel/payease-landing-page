@@ -3,6 +3,7 @@ import { FaBars } from "react-icons/fa";
 import { FaTimes } from "react-icons/fa";
 import { FaMoneyBill1Wave } from "react-icons/fa6";
 import { navLinks } from "../data/ProjectData";
+import logo from "../assets/logo.svg"
 
 function NavBar(){
     const [isOpen, setIsOpen] = useState(false)
@@ -18,7 +19,7 @@ function NavBar(){
     return(
         <header>
             <div className="menu">
-                <h1 className="logo">PayEase <FaMoneyBill1Wave className="money-icon"/></h1>
+                <img src={logo} alt="PayEase logo" className="logo"/>
                 <button className="menu_icon" onClick={toggleMenu} aria-label="Toggle Menu">{isOpen ? <FaTimes /> : <FaBars />}</button>
             </div>
             <nav className={isOpen ? "nav_open" : ""}>
